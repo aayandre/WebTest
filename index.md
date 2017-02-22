@@ -13,8 +13,7 @@
  >_git init_
 
 * Configure um user e e um email.
- >_git config --global user.name "nome"_
- 
+ >_git config --global user.name "nome"_  
  >_git config --global user.email "email"_
 
 * Utilize o "vim"(ou não) para criar ou editar um arquivo
