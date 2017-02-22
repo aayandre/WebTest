@@ -14,7 +14,7 @@
 
 * Configure um user e e um email.
  >_git config --global user.name "nome"_  
- >_git config --global user.email "email"_
+ _git config --global user.email "email"_
 
 * Utilize o "vim"(ou não) para criar ou editar um arquivo
  >_vim index.html_. Se for criar um html.
@@ -30,7 +30,7 @@
  
 * Para solicitar o envio do commit para o repositório
  >_git remote add "normalmente **ORIGIN**" "endereço do repositório do github"_  
- Se já existir arquivos no repositorio utilizar "_git pull origin master_" para pegar os mesmos.
+ **Obs**: Se já existir arquivos no repositorio utilizar "_git pull origin master_" para pegar os mesmos.
  
 * Para concluir o envio
  >_git push -u origin master_
