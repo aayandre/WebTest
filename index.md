@@ -17,3 +17,5 @@
 Utilizar o blackboard para pegar o conteúdo. Toda segunda.  
 E as quartas a professora fica em alguma sala que eu não me lembro.  
 Mas ela tbm fica na sala dos professores a semana toda(exeto no fds).
+
+[Testes](testes.md)
