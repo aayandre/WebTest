@@ -1,6 +1,8 @@
 # Cursos
 >**Tecnologia em Análise e Desenvolvimento de Sistemas - Turma A**
 
+![1º Período](http://i.imgur.com/QuKxIwO.jpg?1)
+
 ## PI _Ramon Chiara_ LAB C136
    [Aula 1 Git](git-tuto.md) 21/02/17 Terça
 
