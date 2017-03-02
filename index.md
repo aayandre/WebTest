@@ -7,12 +7,15 @@
    [Aula 1 Git](git-tuto.md) 21/02/17 Terça
 
 ## AP _Fernando Luiz_ LAB C136
+   [Aula 2 PDF](https://drive.google.com/open?id=0B54yBeYpXMHRcS1TdmhLcjZ1X28) 24/01/17 Sexta
+   >Com exercícios
 
 ## FA _Keli Cristiane_ SALA G305
 
 ## CC _Ainda não sei_ SALA G305
 
 ## PC _Ricardo Dalke_ SALA G305
+   [Aula 2 ADO](https://drive.google.com/open?id=0B54yBeYpXMHRZ3drNzlYdmQwMm8)(Avaliação Docente Orientada) 23/01/17 Quinta
 
 ## PTS _Angela dos Reis_ EAD(Não presencial)
 >Pesquisa, Tecnologia e Sociedade.  
